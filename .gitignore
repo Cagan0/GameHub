@@ -1,0 +1,12 @@
+# Ignore executable files
+*.exe
+*.out
+*.o
+*.obj
+
+.vscode/
+bin/
+build/
+
+*.log
+*.tmp
