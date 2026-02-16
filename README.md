@@ -16,7 +16,7 @@ Rock-Paper-Scissors:
 -Includes animation sequences using timing functions.
 
 
-🛠️ Technical Stack & Skills
+==Technical Stack & Skills==
 This project implements several core C programming concepts:
 
 -Windows API: Used <windows.h> for Sleep() and system("cls").
@@ -25,7 +25,7 @@ This project implements several core C programming concepts:
 -Pointers: Basic pointer usage for display updates.
 
 
-🚀 Installation & Usage
+==Installation & Usage==
 1. Clone the Repository
 Bash
 git clone https://github.com/Cagan0/GameHub.git
@@ -39,5 +39,5 @@ Bash
 ./GameHub
 
 
-👨‍💻 About Me
+==About Me==
 1st-year Computer Engineering student at Yaşar University. This is my first project where I devolop myself and practice C fundamentals like pointers and Windows API.
